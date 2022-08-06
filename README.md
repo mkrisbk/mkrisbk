@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mkrisbk
+- 👀 I’m interested in casual programming
+- 🌱 I’m currently learning python, willing to start with solidity later on
